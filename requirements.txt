@@ -1,0 +1,5 @@
+numpy
+datasets
+tiktoken
+wandb
+matplotlib
