@@ -1,0 +1,8 @@
+data/*.bin
+checkpoints/
+checkpoints_v1/
+venv/
+__pycache__/
+*.pyc
+*.swp
+*.swo
